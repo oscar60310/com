@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+
+<html>
+<head>
+  
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <title>首頁</title>
+
+  
+</head>
+<body>
+oscar60310的檔案伺服器<br>
+
+oscar60310's File Server<br>
+
+<br>
+<div style="font-family:微軟正黑體;">
+
+<div id="b1"><input type="button" onclick="sendrequest();" value="取得權限"/><div id="nid"></div></div><br/>
+<div id="state"></div></br>
+<div id="state2" style="display:none;">
+請輸入檔案提取密碼:  <br/>  <input type="text" id="pw"/>  <input type="button" id="sendpass" onclick="sendpass();" value="送出"/>
+
+
+
+</div>
+<script>
+var request;
+var request2;
+var id;
+function sendpass()
+{
+        request2 = createXmlHttpRequest();
+	request2.onreadystatechange = back2; 
+        var s ="pass,"+document.getElementById("nid").innerHTML+","+document.getElementById("pw").value;
+        request2.open("POST",s,true);
+        request2.send(null);
+}
+function back2()
+{
+ 	
+	if(request2.status == 200 && request2.readyState >3)
+	{
+		var r=request2.responseText;
+		if(r=="null")
+		{
+			document.getElementById("state").innerHTML="您的提取碼無法取得回應";
+
+		}
+		else
+		{
+			document.getElementById("state").innerHTML="<a href='/download?"+r+"'>您的檔案已經準備好，點此下載</a>";
+		}
+	
+	}
+	else
+	{
+		document.getElementById("state").innerHTML="等候伺服器回應中..."; 
+	}
+}
+function sendrequest()
+{
+	request = createXmlHttpRequest();
+	request.onreadystatechange = back1; 
+        request.open("POST","filerequest",true);
+        request.send(null);
+}    
+var s;
+function back1()
+{
+       if(request.status == 200 )
+	{
+		
+		
+		document.getElementById("state").innerHTML="已發送檔案要求，編號:"+request.responseText;
+		document.getElementById("nid").innerHTML=request.responseText;
+     		document.getElementById("b1").style["display"]="none";
+		document.getElementById("state2").style["display"]="block";
+		
+	}
+	else
+	{
+		document.getElementById("state").innerHTML="等候伺服器回應..."; 
+	}
+}
+
+function createXmlHttpRequest(){    
+    if(window.ActiveXObject){ //如果是IE
+        return new ActiveXObject("Microsoft.XMLHTTP");    
+    }else if(window.XMLHttpRequest){ //非IE
+        return new XMLHttpRequest();    
+    }    
+}    
+</script>
+</div>
+</body>
+</html>

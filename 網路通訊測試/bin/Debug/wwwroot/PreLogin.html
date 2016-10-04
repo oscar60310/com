@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+  
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <title>權限要求 Authorization Require</title>
+
+  
+</head><body>
+<div style="font-family:微軟正黑體;">
+401 Unauthorized<br>
+
+The page you requested need a higher authorization <br>
+
+401 權限不足<br>
+
+您所要求的頁面需要更高的權限<br>
+
+<br>
+
+Redirect to the login page after
+<label id="sec">0</label>
+seconds
+<br>
+
+<label id="sec2">0</label>秒後轉至登入頁面<br>
+
+<script>
+var t=5;
+start();
+function start()
+{
+if(t<=0)
+{
+window.location="/login.html";
+}
+document.getElementById("sec").innerHTML=t; 
+document.getElementById("sec2").innerHTML=t; 
+t=t-1;
+setTimeout("start()",1000);
+}
+</script>
+</div>
+</body></html>

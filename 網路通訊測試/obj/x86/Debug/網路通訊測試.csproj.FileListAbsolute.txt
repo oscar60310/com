@@ -1,0 +1,37 @@
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\bin\Debug\網路通訊測試.exe
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\bin\Debug\網路通訊測試.pdb
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form1.resources
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Properties.Resources.resources
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.csproj.GenerateResource.Cache
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.exe
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.pdb
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form2.resources
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form3.resources
+E:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.csprojResolveAssemblyReference.cache
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.exe
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.pdb
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\bin\Debug\網路通訊測試.exe
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\bin\Debug\網路通訊測試.pdb
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\bin\Debug\Goofy_auth.dll
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\bin\Debug\Goofy_auth.pdb
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.csprojResolveAssemblyReference.cache
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form1.resources
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form2.resources
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form3.resources
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Properties.Resources.resources
+F:\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.csproj.GenerateResource.Cache
+D:\備份\隨身碟\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.exe
+D:\備份\隨身碟\蔡臻平\高中部份\VC sharp\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.pdb
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.exe
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.pdb
+D:\自建\HTTP\網路通訊測試\網路通訊測試\bin\Debug\網路通訊測試.exe
+D:\自建\HTTP\網路通訊測試\網路通訊測試\bin\Debug\網路通訊測試.pdb
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.csprojResolveAssemblyReference.cache
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form1.resources
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form2.resources
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Form3.resources
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.Properties.Resources.resources
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\網路通訊測試.csproj.GenerateResource.Cache
+D:\自建\HTTP\網路通訊測試\網路通訊測試\obj\x86\Debug\UniqueKey.Form1.resources
+D:\自建\HTTP\網路通訊測試\網路通訊測試\bin\Debug\網路通訊測試.exe.config
+D:\自建\HTTP\網路通訊測試\網路通訊測試\bin\Debug\finger.pdb
